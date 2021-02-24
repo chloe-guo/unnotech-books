@@ -20,3 +20,8 @@ npm run lint
 ```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## 頁面
+> 專案有兩個頁面
+* Book List Page (網址: /books)
+* Book Detail Page (網址: /books/:bookId)
