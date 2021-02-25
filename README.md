@@ -1,5 +1,6 @@
 # unnotech-frontend-recruit 小專案
 > 專案需求：https://github.com/UnnotechSoftware/unnotech-frontend-recruit
+> 專案展示：http://books/chloe-guo.nde.tw/books
 
 ## 執行專案
 
@@ -28,6 +29,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 * Book Detail Page (網址: /books/:bookId)
 
 ## 專案的架構、邏輯說明
+* 首頁是 Book List Page (網址: /books)，點擊 book Card ，利用 vue router 嵌套路由(Nested Routes)，使 Book List 保持顯示，下方區塊則是跟隨Book Detail Page (網址: /books/:bookId)的網址渲染的不同頁面區塊(router-view)。
+* 
+
 
 ## 你對於所有使用到的第三方 library 的理解，以及為何使用它
 > axios
