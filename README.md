@@ -40,6 +40,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## 在這份專案中你遇到的困難、問題，以及解決的方法
 > 第一次使用 axios
 * 因為 vue 我是自學的，公司的案子部分是沒有使用vue的；而在查詢資料時，看到很多人在 vue 的 API 串接是使用 axios，因此在這個專案裡我也嘗試使用 axios ，利用官方文檔或是 Google 來查找方法。
-> 不小心將 https://fe-interview-api.unnotech.com/profile/2 這本書的資料 delete 掉了，因此抓不到這筆資料。
-不好意思。
+> 不小心將 https://fe-interview-api.unnotech.com/profile/2 這本書的資料 delete 掉了，因此抓不到這筆資料(404)。
+* 不好意思。
 
